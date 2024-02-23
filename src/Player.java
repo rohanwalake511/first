@@ -1,4 +1,4 @@
-public static class Player {
+public class Player {
     int id;
     String name;
     int phoneNo;
